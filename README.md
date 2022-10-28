@@ -1,2 +1,2 @@
 # List App
-Listeleme işleminin anlatıldığı bir projedir.
+It is a project in which the listing process is explained.
